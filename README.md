@@ -1,18 +1,18 @@
 # Jupyter Notebook Deep Learning Stack with style
 
-the staring point is the *docker-stacks Tensorflow Image* with
+the staring point is the *docker-stacks Tensorflow Image* ** jupyter/tensorflow-notebook ** with
 
 * RISE for notebook slides
 * jupyterthemes with *oceans16* as default theme
 * XKCD fonts
 
-Please visit the documentation site for help using and contributing to this image and others.
+Please visit the documentation site for help.
 
 * [Jupyter Docker Stacks on ReadTheDocs](http://jupyter-docker-stacks.readthedocs.io/en/latest/index.html)
-* [Selecting an Image :: Core Stacks :: jupyter/tensorflow-notebook](http://jupyter-docker-stacks.readthedocs.io/en/latest/using/selecting.html#jupyter-tensorflow-notebook)
 * [Image Specifics :: Tensorflow](http://jupyter-docker-stacks.readthedocs.io/en/latest/using/specifics.html#tensorflow)
 
 
+## Build and run
 
 ```
 docker build -t jupyter-tf .
