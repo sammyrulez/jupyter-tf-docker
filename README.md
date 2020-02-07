@@ -3,7 +3,7 @@
 ![Docker build](https://github.com/sammyrulez/jupyter-tf-docker/workflows/Docker%20Image%20CI/badge.svg)
 
 
-the staring point is the *docker-stacks Tensorflow Image* ** jupyter/tensorflow-notebook ** with
+the staring point is the *docker-stacks Tensorflow Image* **jupyter/tensorflow-notebook** with
 
 * RISE for notebook slides
 * jupyterthemes with *oceans16* as default theme
